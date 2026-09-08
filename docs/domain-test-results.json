@@ -1,0 +1,154 @@
+{
+  "passed": 37,
+  "failed": 0,
+  "tests": [
+    {
+      "name": "Source catalog has 6 units and 29 ordered components",
+      "passed": true
+    },
+    {
+      "name": "Only Al-Mustaqbal is marked content-ready",
+      "passed": true
+    },
+    {
+      "name": "All IDs are unique",
+      "passed": true
+    },
+    {
+      "name": "Book and authored tasks counted separately",
+      "passed": true
+    },
+    {
+      "name": "All objective answer indexes are valid",
+      "passed": true
+    },
+    {
+      "name": "Fresh workspace has no fabricated scores",
+      "passed": true
+    },
+    {
+      "name": "Assignments reject nonexistent learners",
+      "passed": true
+    },
+    {
+      "name": "Assignments reject empty selections",
+      "passed": true
+    },
+    {
+      "name": "Flagged reference question cannot be assigned",
+      "passed": true
+    },
+    {
+      "name": "Oral observation is not disguised as a quiz",
+      "passed": true
+    },
+    {
+      "name": "Independent mode requires distinct authored questions",
+      "passed": true
+    },
+    {
+      "name": "Correct answer receives 2 marks and 10 points",
+      "passed": true
+    },
+    {
+      "name": "Wrong answer is not marked excellent",
+      "passed": true
+    },
+    {
+      "name": "No answer cannot be submitted",
+      "passed": true
+    },
+    {
+      "name": "Out of range answer is rejected",
+      "passed": true
+    },
+    {
+      "name": "Duplicate submission ID is idempotent",
+      "passed": true
+    },
+    {
+      "name": "New click after correct answer does not farm points",
+      "passed": true
+    },
+    {
+      "name": "Retry awards once with reduced points",
+      "passed": true
+    },
+    {
+      "name": "Hinted first answer awards only 5 points",
+      "passed": true
+    },
+    {
+      "name": "At most three training attempts",
+      "passed": true
+    },
+    {
+      "name": "Question rewards do not repeat in another assignment",
+      "passed": true
+    },
+    {
+      "name": "A different learner cannot answer an unassigned task",
+      "passed": true
+    },
+    {
+      "name": "Open answers are pending, not incorrect",
+      "passed": true
+    },
+    {
+      "name": "Blank open answer is rejected",
+      "passed": true
+    },
+    {
+      "name": "Unknown Arabic synonym is queued for review",
+      "passed": true
+    },
+    {
+      "name": "Known Arabic synonym ignores optional diacritics",
+      "passed": true
+    },
+    {
+      "name": "Teacher review awards points only once",
+      "passed": true
+    },
+    {
+      "name": "Invalid review score is rejected",
+      "passed": true
+    },
+    {
+      "name": "Independent attempt cannot be repeated",
+      "passed": true
+    },
+    {
+      "name": "Independent hints are rejected",
+      "passed": true
+    },
+    {
+      "name": "Pending reports cannot be published",
+      "passed": true
+    },
+    {
+      "name": "Empty reports cannot be published",
+      "passed": true
+    },
+    {
+      "name": "Publish is scoped to learners with reviewed data",
+      "passed": true
+    },
+    {
+      "name": "Published snapshot is independent of later attempts",
+      "passed": true
+    },
+    {
+      "name": "No scores leak between fictional learners",
+      "passed": true
+    },
+    {
+      "name": "Domain functions do not mutate input",
+      "passed": true
+    },
+    {
+      "name": "Distinct story challenges are counted only after answering all",
+      "passed": true
+    }
+  ]
+}

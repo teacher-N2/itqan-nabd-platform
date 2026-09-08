@@ -1,0 +1,739 @@
+{
+  "environment": "Chromium set_content; in-memory storage test double; embedded images; no live deployment or hardware Safari test",
+  "passed": 183,
+  "browserErrors": [],
+  "tests": [
+    {
+      "name": "Teacher home loads without login",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u0-l1",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u0-l1",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u0-l1",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u1-l1",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u1-l1",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u1-l1",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u1-l2",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u1-l2",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u1-l2",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u1-l3",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u1-l3",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u1-l3",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u2-l1",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u2-l1",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u2-l1",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u2-l2",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u2-l2",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u2-l2",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u2-l3",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u2-l3",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u2-l3",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u2-l4",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u2-l4",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u2-l5",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u2-l5",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u2-l6",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u2-l6",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u3-l1",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u3-l1",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u3-l1",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u3-l2",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u3-l2",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u3-l2",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u3-l3",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u3-l3",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u3-l3",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u3-l4",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u3-l4",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u4-l1",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u4-l1",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u4-l1",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u4-l2",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u4-l2",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u4-l2",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u4-l3",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u4-l3",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u4-l3",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u4-l4",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u4-l4",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u4-l5",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u4-l5",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u4-l6",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u4-l6",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u5-l1",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u5-l1",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u5-l1",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u5-l2",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u5-l2",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u5-l2",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u5-l3",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u5-l3",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u5-l3",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u5-l4",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u5-l4",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u5-l4",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u5-l5",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u5-l5",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u6-l1",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u6-l1",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u6-l1",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u6-l2",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u6-l2",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u6-l2",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u6-l3",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u6-l3",
+      "passed": true
+    },
+    {
+      "name": "Assignment correct lesson: u6-l3",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u6-l4",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u6-l4",
+      "passed": true
+    },
+    {
+      "name": "Lesson complete and isolated: u6-l5",
+      "passed": true
+    },
+    {
+      "name": "No horizontal overflow: u6-l5",
+      "passed": true
+    },
+    {
+      "name": "Original page image renders",
+      "passed": true
+    },
+    {
+      "name": "Original page navigation",
+      "passed": true
+    },
+    {
+      "name": "Answer source image renders",
+      "passed": true
+    },
+    {
+      "name": "Unknown source answer stays pending",
+      "passed": true
+    },
+    {
+      "name": "MCQ without documented key stays pending",
+      "passed": true
+    },
+    {
+      "name": "Teacher sees MCQ text not integer",
+      "passed": true
+    },
+    {
+      "name": "Teacher approval grants points once",
+      "passed": true
+    },
+    {
+      "name": "Approved report visible in family demo",
+      "passed": true
+    },
+    {
+      "name": "Class context: u0-l1",
+      "passed": true
+    },
+    {
+      "name": "Race context: u0-l1",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u0-l1",
+      "passed": true
+    },
+    {
+      "name": "Class context: u1-l1",
+      "passed": true
+    },
+    {
+      "name": "Race context: u1-l1",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u1-l1",
+      "passed": true
+    },
+    {
+      "name": "Class context: u1-l2",
+      "passed": true
+    },
+    {
+      "name": "Race context: u1-l2",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u1-l2",
+      "passed": true
+    },
+    {
+      "name": "Class context: u1-l3",
+      "passed": true
+    },
+    {
+      "name": "Race context: u1-l3",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u1-l3",
+      "passed": true
+    },
+    {
+      "name": "Class context: u2-l1",
+      "passed": true
+    },
+    {
+      "name": "Race context: u2-l1",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u2-l1",
+      "passed": true
+    },
+    {
+      "name": "Class context: u2-l2",
+      "passed": true
+    },
+    {
+      "name": "Race context: u2-l2",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u2-l2",
+      "passed": true
+    },
+    {
+      "name": "Class context: u2-l3",
+      "passed": true
+    },
+    {
+      "name": "Race context: u2-l3",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u2-l3",
+      "passed": true
+    },
+    {
+      "name": "Class context: u2-l4",
+      "passed": true
+    },
+    {
+      "name": "Race context: u2-l4",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u2-l4",
+      "passed": true
+    },
+    {
+      "name": "Class context: u2-l5",
+      "passed": true
+    },
+    {
+      "name": "Race context: u2-l5",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u2-l5",
+      "passed": true
+    },
+    {
+      "name": "Class context: u2-l6",
+      "passed": true
+    },
+    {
+      "name": "Race context: u2-l6",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u2-l6",
+      "passed": true
+    },
+    {
+      "name": "Class context: u3-l1",
+      "passed": true
+    },
+    {
+      "name": "Race context: u3-l1",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u3-l1",
+      "passed": true
+    },
+    {
+      "name": "Class context: u3-l2",
+      "passed": true
+    },
+    {
+      "name": "Race context: u3-l2",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u3-l2",
+      "passed": true
+    },
+    {
+      "name": "Class context: u3-l3",
+      "passed": true
+    },
+    {
+      "name": "Race context: u3-l3",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u3-l3",
+      "passed": true
+    },
+    {
+      "name": "Class context: u3-l4",
+      "passed": true
+    },
+    {
+      "name": "Race context: u3-l4",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u3-l4",
+      "passed": true
+    },
+    {
+      "name": "Class context: u4-l1",
+      "passed": true
+    },
+    {
+      "name": "Race context: u4-l1",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u4-l1",
+      "passed": true
+    },
+    {
+      "name": "Class context: u4-l2",
+      "passed": true
+    },
+    {
+      "name": "Race context: u4-l2",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u4-l2",
+      "passed": true
+    },
+    {
+      "name": "Class context: u4-l3",
+      "passed": true
+    },
+    {
+      "name": "Race context: u4-l3",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u4-l3",
+      "passed": true
+    },
+    {
+      "name": "Class context: u4-l4",
+      "passed": true
+    },
+    {
+      "name": "Race context: u4-l4",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u4-l4",
+      "passed": true
+    },
+    {
+      "name": "Class context: u4-l5",
+      "passed": true
+    },
+    {
+      "name": "Race context: u4-l5",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u4-l5",
+      "passed": true
+    },
+    {
+      "name": "Class context: u4-l6",
+      "passed": true
+    },
+    {
+      "name": "Race context: u4-l6",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u4-l6",
+      "passed": true
+    },
+    {
+      "name": "Class context: u5-l1",
+      "passed": true
+    },
+    {
+      "name": "Race context: u5-l1",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u5-l1",
+      "passed": true
+    },
+    {
+      "name": "Class context: u5-l2",
+      "passed": true
+    },
+    {
+      "name": "Race context: u5-l2",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u5-l2",
+      "passed": true
+    },
+    {
+      "name": "Class context: u5-l3",
+      "passed": true
+    },
+    {
+      "name": "Race context: u5-l3",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u5-l3",
+      "passed": true
+    },
+    {
+      "name": "Class context: u5-l4",
+      "passed": true
+    },
+    {
+      "name": "Race context: u5-l4",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u5-l4",
+      "passed": true
+    },
+    {
+      "name": "Class context: u5-l5",
+      "passed": true
+    },
+    {
+      "name": "Race context: u5-l5",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u5-l5",
+      "passed": true
+    },
+    {
+      "name": "Class context: u6-l1",
+      "passed": true
+    },
+    {
+      "name": "Race context: u6-l1",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u6-l1",
+      "passed": true
+    },
+    {
+      "name": "Class context: u6-l2",
+      "passed": true
+    },
+    {
+      "name": "Race context: u6-l2",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u6-l2",
+      "passed": true
+    },
+    {
+      "name": "Class context: u6-l3",
+      "passed": true
+    },
+    {
+      "name": "Race context: u6-l3",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u6-l3",
+      "passed": true
+    },
+    {
+      "name": "Class context: u6-l4",
+      "passed": true
+    },
+    {
+      "name": "Race context: u6-l4",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u6-l4",
+      "passed": true
+    },
+    {
+      "name": "Class context: u6-l5",
+      "passed": true
+    },
+    {
+      "name": "Race context: u6-l5",
+      "passed": true
+    },
+    {
+      "name": "Race feedback ends decision state: u6-l5",
+      "passed": true
+    },
+    {
+      "name": "Mobile no overflow",
+      "passed": true
+    },
+    {
+      "name": "Mobile reading dialog no overflow",
+      "passed": true
+    },
+    {
+      "name": "Tablet no overflow",
+      "passed": true
+    },
+    {
+      "name": "No unhandled browser errors",
+      "passed": true
+    }
+  ]
+}

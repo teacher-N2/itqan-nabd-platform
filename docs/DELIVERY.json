@@ -1,0 +1,26 @@
+{
+  "release": "V9 — curriculum completion",
+  "source_book": "كتاب عربي خامس ف1 25–26.pdf",
+  "units": 6,
+  "components_including_intro": 30,
+  "source_cards": 358,
+  "book_page_images": 136,
+  "answer_page_images": 45,
+  "automatically_graded_source_cards": 33,
+  "source_cards_for_manual_review": 289,
+  "source_performance_cards": 36,
+  "core_tests_passed": 37,
+  "curriculum_checks_passed": 401,
+  "browser_checks_passed": 183,
+  "browser_test_environment": "Chromium set_content; in-memory storage test double; embedded images; no live deployment or hardware Safari test",
+  "live_deployment_tested": false,
+  "cloud_sync": false,
+  "real_student_data_permitted": false,
+  "hashes": {
+    "index.html": "2ade84b168b1ab05cafc2c8dda010f7c9001b15d63c4a955ac36faa74b4412b5",
+    "styles.css": "b0c838c600a700a9fb91dbe6174ddceb60c3e8f0ef30cbfdf435296c4daa6bbc",
+    "src/data.js": "df290580f67043469c9d4ca2488d01fe1b06c2f67a6747aa626e1379305a87f3",
+    "src/core.js": "b20cbda5a8589426749ce1e33bef632b23a05241bbf93420abac19df4475cd77",
+    "src/app.js": "ebf593a778a6d6dbcdafc7b97bf4b68e3c7782bfdb0611b60b9e43bdd61ced50"
+  }
+}
